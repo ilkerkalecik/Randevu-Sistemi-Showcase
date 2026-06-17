@@ -137,7 +137,7 @@ Frontend runs on `http://localhost:3000`, backend on `http://localhost:8080/api/
 
 ### API contract
 
-Full REST API contract (Turkish) lives in [`ReadME.md`](./API.md). Standard envelope:
+Full REST API contract (Turkish) lives in [`API.md`](./API.md). Standard envelope:
 
 ```json
 { "success": true, "message": "...", "data": {}, "errors": [] }
@@ -157,7 +157,7 @@ RandevuSistemi/
 │       └── hooks/
 ├── docs/             # Backend design notes
 ├── screenshots/      # README screenshots
-├── ReadME.md         # Full API contract
+├── API.md            # Full API contract
 └── SHOWCASE.md       # This file
 ```
 
@@ -283,7 +283,7 @@ Frontend `http://localhost:3000`, backend `http://localhost:8080/api/v1` adresle
 
 ### API kontratı
 
-Tüm REST API kontratı [`ReadME.md`](./API.md) içinde. Standart response zarfı:
+Tüm REST API kontratı [`API.md`](./API.md) içinde. Standart response zarfı:
 
 ```json
 { "success": true, "message": "İşlem başarılı", "data": {}, "errors": [] }
@@ -303,7 +303,7 @@ RandevuSistemi/
 │       └── hooks/
 ├── docs/             # Backend tasarım notları
 ├── screenshots/      # README ekran görüntüleri
-├── ReadME.md         # Tam API kontratı
+├── API.md            # Tam API kontratı
 └── SHOWCASE.md       # Bu dosya
 ```
 
