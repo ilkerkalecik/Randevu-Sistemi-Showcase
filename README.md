@@ -309,8 +309,4 @@ RandevuSistemi/
 
 ---
 
-<div align="center">
 
-Made by [Ilker Kalecik](https://github.com/ilkerkalecik)
-
-</div>
